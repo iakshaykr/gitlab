@@ -1,0 +1,18 @@
+git --version
+
+git config --global user.mail "@mail.com"
+git config --global user.name "iakshaykr"
+
+git config --list
+git config user.name/user.mail
+
+#to mk dir to git repo
+git init 
+
+#to working dir ->>local repo ->>remote repo
+
+git add .
+git commit -m "comit into local repo"
+git push -u origin master
+
+
