@@ -16,6 +16,3 @@ git commit -m "comit into local repo"
 git push -u origin master
 
 
-
-
-tst
