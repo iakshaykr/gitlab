@@ -18,4 +18,6 @@ git push -u origin master
 
 
 
-tst
+git diff filename
+git log
+git log --oneline
