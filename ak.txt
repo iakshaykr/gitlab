@@ -1,0 +1,11 @@
+helo i m akshaykr
+
+
+hiiii
+
+<<<<<<< HEAD
+
+i am fine thanku
+=======
+ehy how are you 
+>>>>>>> 3c86648bd5c73abd6065b1a78075bb3ab53adfc9
